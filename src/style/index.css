@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: GoogleSans, 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: GoogleSans, "sans-serif";
+}
+
+@font-face {
+  font-family: GoogleSans;
+  src: url('../resources/fonts/GoogleSans-Regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: GoogleSans;
+  src: url('../resources/fonts/GoogleSans-Bold.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: GoogleSans;
+  src: url('../resources/fonts/GoogleSans-Medium.ttf');
+  font-weight: 500;
+}
+
+.app {
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  color: #4b8dec;
+}
