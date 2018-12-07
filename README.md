@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Content
+
+- Added default directories (components, reducers, actions, etc).
+- Added following packages:
+    - Lodash
+    - Redux Thunk
+    - Redux Logger
+    - Semantic UI
+    - React Router Dom
+- Complete React - Redux setup.
+- Added Google Sans font.
+- Added Dummy Reducer.
+
 ## Available Scripts
 
 In the project directory, you can run:
