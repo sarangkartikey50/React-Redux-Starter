@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - Redux Logger
     - Semantic UI
     - React Router Dom
+    - Axios
 - Complete React - Redux setup.
 - Added Google Sans font.
 - Added Dummy Reducer.
