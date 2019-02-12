@@ -4,7 +4,7 @@ import dummyActionCreator from '../actions/index';
 
 class App extends Component {
 
-  componentWillMount(){
+  componentDidMount(){
     this.props.dummyActionCreator();
   }
 
