@@ -1,8 +1,9 @@
 {
-  "name": "react_dummy",
+  "name": "react-redux-start",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "axios": "^0.18.0",
     "lodash": "^4.17.11",
     "react": "^16.6.3",

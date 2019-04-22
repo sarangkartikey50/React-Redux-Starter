@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - Redux Thunk
     - Redux Logger
     - Semantic UI
+    - Material UI
     - React Router Dom
     - Axios
 - Complete React - Redux setup.
